@@ -1,0 +1,8 @@
+{
+  "version": "2.1.0",                      // The version of the update
+  "url": "https://example.com/ota/ota-update.zip",  // URL to download the OTA update package
+  "changelog": "Bug fixes and performance improvements",  // Brief changelog for users
+  "device_compatible": true,                // Boolean indicating whether the update is compatible with the current device
+  "update_type": "incremental",            // Type of update (could be "full" or "incremental")
+  "size": 150000000                        // The size of the OTA update file in bytes
+}
