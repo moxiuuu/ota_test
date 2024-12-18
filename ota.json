@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",                      
+  "url": "https://example.com/ota/ota-update.zip",  
+  "changelog": "Bug fixes and performance improvements (testing)",  
+  "device_compatible": true,               
+  "update_type": "incremental",            
+  "size": 150000000                        
+}
